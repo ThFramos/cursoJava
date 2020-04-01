@@ -1,0 +1,44 @@
+package com.app.testes;
+import java.util.Calendar;
+import java.text.DateFormat;
+import java.util.Date;
+import java.text.SimpleDateFormat;
+import java.text.ParseException;
+import java.util.Scanner;
+
+public class testes {
+
+	public static void main(String[] args) throws ParseException {
+
+/*
+		Calendar c = Calendar.getInstance();
+        Date data = c.getTime();
+         
+        DateFormat f = DateFormat.getDateInstance(DateFormat.FULL); //Data COmpleta
+        System.out.println("Data brasileira: "+f.format(data));
+ 
+f = DateFormat.getDateInstance(DateFormat.LONG);
+        System.out.println("Data sem o dia descrito: "+f.format(data));
+         
+        f = DateFormat.getDateInstance(DateFormat.MEDIUM);
+        System.out.println("Data resumida 1: "+f.format(data));
+         
+        f = DateFormat.getDateInstance(DateFormat.SHORT);
+        System.out.println("Data resumida 2: "+f.format(data));
+        */
+		
+		        Scanner entrada = new Scanner(System.in);
+		        
+		        System.out.println("Digite ano de nascimento: ");
+		        Calendar calendario = (Calendar) Calendar.getInstance();
+		        
+		        
+		        
+		       
+		        
+		        System.out.printf("Idade: " + (calendario.get(Calendar.YEAR)- entrada.nextInt() ) + "\n");
+        
+		       
+	}
+
+}

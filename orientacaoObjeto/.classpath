@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="aula01(programa sem orientação a objetos)"/>
+	<classpathentry kind="src" path="aula02(programa com orientação a objetos)"/>
+	<classpathentry kind="src" path="aula03"/>
+	<classpathentry kind="src" path="exercicio01"/>
+	<classpathentry kind="src" path="exercicio02"/>
+	<classpathentry kind="src" path="exercicio03"/>
+	<classpathentry kind="src" path="exercicio Fixacao"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

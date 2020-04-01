@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 packages to &apos;basicJava/src&apos;&#x0D;&#x0A;- Original project: &apos;Repetidores&apos;&#x0D;&#x0A;- Destination element: &apos;basicJava/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Repetidores/src/com.app.Exercicios&#x0D;&#x0A;     Repetidores/src/com.app.While&#x0D;&#x0A;- Update references to refactored element" description="Move packages" destination="=basicJava/src" element1="/src&lt;com.app.Exercicios" element2="/src&lt;com.app.While" flags="589830" fragments="2" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1568394739293" version="1.0"/>
+</session>

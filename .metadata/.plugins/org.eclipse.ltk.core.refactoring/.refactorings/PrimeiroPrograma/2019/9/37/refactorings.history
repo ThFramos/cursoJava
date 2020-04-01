@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.app.primeiroprograma&apos; to &apos;basicJava/src&apos;&#x0D;&#x0A;- Original project: &apos;PrimeiroPrograma&apos;&#x0D;&#x0A;- Destination element: &apos;basicJava/src&apos;&#x0D;&#x0A;- Original element: &apos;PrimeiroPrograma/src/com.app.primeiroprograma&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=basicJava/src" element1="/src&lt;com.app.primeiroprograma" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1568394725010" version="1.0"/>
+</session>
